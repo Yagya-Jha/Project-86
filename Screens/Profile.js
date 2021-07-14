@@ -67,7 +67,7 @@ export default class Profile extends React.Component{
                                 </View>
                                 <View style = {styles.appTitleTextContainer}>
                                     <Text style = {this.state.lightTheme?styles.appTitleTextLight:styles.appTitleText}>
-                                        Story-Telling App
+                                        Spectagram
                                     </Text>
                                 </View>
                         </View>
